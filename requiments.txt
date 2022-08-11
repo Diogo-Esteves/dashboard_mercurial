@@ -1,0 +1,4 @@
+mljar-mercury
+mplfinance
+yfinance
+jupyterlab
