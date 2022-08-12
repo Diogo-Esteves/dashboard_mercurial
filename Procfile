@@ -1,1 +1,1 @@
-web: mercury run 0.0.0.0:$PORT --runworker
+web: mercury runserver 0.0.0.0:$PORT --runworker
